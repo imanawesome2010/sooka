@@ -35,6 +35,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - Filem Mantap
 - Gusto TV
 - Infamous TV
+- Jom Ngaji
 - K-Popcorn
 - Lawak Sentral
 - MTRSPT1
