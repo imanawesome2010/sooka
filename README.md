@@ -46,8 +46,6 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 
 # Premium TV
 
-- Astro AEC
-- Astro Arena
 - Astro Arena 2
 - Astro Arena Bola
 - Astro Arena Bola 2
