@@ -22,7 +22,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="106.astro" group-title="Astro" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",Astro Oasis
+#EXTINF:-1 tvg-id="106.astro" group-title="Astro" ch-number="106" group-logo="https://aqfadtv.xyz/images/astro.png" tvg-logo="https://aqfadtv.xyz/logos/AstroOasis.png",106 Astro Oasis
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="130.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="130" tvg-logo="https://aqfadtv.xyz/logos/JomNgaji.png",130 Jom Ngaji
@@ -376,6 +376,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+
+#EXTINF:-1 tvg-id="824.astro" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="824" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket.png",824 Astro Cricket
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #EXTINF:-1 tvg-id="131.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
