@@ -49,6 +49,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - Astro Arena 2
 - Astro Arena Bola
 - Astro Arena Bola 2
+- Astro Cricket
 - Astro QJ
 - Astro SuperSport
 - Astro SuperSport 2
