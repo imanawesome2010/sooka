@@ -46,6 +46,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 
 # Premium TV
 
+- Astro AOD
 - Astro Arena 2
 - Astro Arena Bola
 - Astro Arena Bola 2
@@ -67,6 +68,10 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - ONE
 - SPOTV
 - SPOTV 2
+- TVB Classic
+- TVB Entertainment News
+- TVB Jade
+- TVB Xing He
 - tvN Asia
 - tvN Movies
 - W-Sport
