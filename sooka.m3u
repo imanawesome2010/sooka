@@ -89,6 +89,11 @@ https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
+#EXTINF:-1 tvg-id="305.astro" ch-number="305" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBClassic.png",305 TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5016/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/aec/
 #EXTINF:-1 tvg-id="306.astro" ch-number="306" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAEC.png",306 Astro AEC
@@ -108,6 +113,26 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5103/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/qj/
 #EXTINF:-1 tvg-id="308.astro" ch-number="308" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroQJ.png",308 Astro QJ
 https://d1yws6emo43ny.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:-1 tvg-id="310.astro" ch-number="310" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBJade.png",310 TVB Jade
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"y54aEi7RxkRffT/SFiNY8Q", "kid":"/hIZAZqfNs3vNHCI5ZLKEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
+
+#EXTINF:-1 tvg-id="311.astro" ch-number="311" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAOD.png",311 Astro AOD HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+
+#EXTINF:-1 tvg-id="317.astro" ch-number="317" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/TVBEntertainmentNews.png",317 TVB Entertainment News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default.mpd
+
+#EXTINF:-1 tvg-id="319.astro" ch-number="319" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png",319 TVB Xing He
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
 
 #EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
