@@ -24,6 +24,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - TV Okey
 - TV1
 - TV2
+- TVS
 
 # Free Ad-supported Streaming TV (FAST)
 
