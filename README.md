@@ -40,6 +40,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - K-Popcorn
 - Lawak Sentral
 - MTRSPT1
+- Oh My Ceria
 - Tastemade
 - TAYO+
 - Travel&Taste
