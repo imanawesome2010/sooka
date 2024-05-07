@@ -103,6 +103,11 @@ https://linear08-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
+#EXTINF:-1 tvg-id="300.astro" ch-number="300" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/iQIYI.png",300 iQIYI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1006
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default.mpd
+
 #EXTINF:-1 tvg-id="305.astro" ch-number="305" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/TVBClassic.png",305 TVB Classic
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
@@ -138,6 +143,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2600/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F24pOLznldHIVVmiRAR39w", "kid":"KGrvTo2F22bgX+Slx5nkEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 
+#EXTINF:-1 tvg-id="316.astro" ch-number="316" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CTIAsia.png",316 CTI Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9anK3qI3KlLCuR+cJh/gpA", "kid":"1iZZjCq0UlN1Cdy4qG25EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5017/default.mpd
+
 #EXTINF:-1 tvg-id="317.astro" ch-number="317" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/TVBEntertainmentNews.png",317 TVB Entertainment News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"r3EKBv1nl1uZ20pHp1e4Sw", "kid":"+mKcNkDOUzx1VQn2f3XmEA" } ], "type":"temporary" }
@@ -147,6 +157,21 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5015/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7PtFSy8+I4xbXcGW5PkfuA", "kid":"424Mve8Gd7SNulxj6MqvEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/401/default.mpd
+
+#EXTINF:-1 tvg-id="325.astro" ch-number="325" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",325 Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/400/default.mpd
+
+#EXTINF:-1 tvg-id="326.astro" ch-number="326" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/PhoenixInfoNews.png",326 Phoenix Info News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5009/default.mpd
+
+#EXTINF:-1 tvg-id="335.astro" ch-number="335" group-title="Chinese" group-logo="https://aqfadtv.xyz/images/chinese.png" tvg-logo="https://aqfadtv.xyz/logos/CCTV4.png",335 CCTV4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hCVpDEhE+7AbXq5wa8L3xg", "kid":"2xozj3HUAYb1mXywhbs/EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/403/default.mpd
 
 #EXTINF:-1 tvg-id="392.astro" ch-number="392" group-title="Korean" group-logo="https://aqfadtv.xyz/images/korean.png" tvg-logo="https://aqfadtv.xyz/logos/KBSWorld.png",392 KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -216,6 +241,31 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 #EXTINF:-1 tvg-id="501.astro" ch-number="501" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AstroAwani.png",501 Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
+#EXTINF:-1 tvg-id="503.astro" ch-number="503" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/CGTN.png",503 CGTN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nnBhYfAvuZy2ktKWVHBJTg", "kid":"/GbvDuNbW6Y53A4TxfipEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
+
+#EXTINF:-1 tvg-id="513.astro" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://aqfadtv.xyz/logos/AlJazeera.png" ch-number="513",513 Al Jazeera English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd
+
+#EXTINF:-1 tvg-id="515.astro" group-title="News" group-logo="https://aqfadtv.xyz/images/news.png" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default_primary.mpd
+
+#EXTINF:-1 tvg-id="550.astro" group-title="Documentaries" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" ch-number="550",550 Love Nature
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
+
+#EXTINF:-1 tvg-id="701.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/AXN.png" ch-number="701",701 AXN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
 #EXTINF:-1 tvg-id="702.astro" group-title="Entertainment" group-logo="https://aqfadtv.xyz/images/entertainment.png" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png", ch-number="702",702 HITS Now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
@@ -230,6 +280,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5110/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/606
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default.mpd
+
+#EXTINF:-1 tvg-id="717.astro" ch-number="717" group-title="Lifestyle" group-logo="https://aqfadtv.xyz/images/lifestyle.png" tvg-logo="https://aqfadtv.xyz/logos/BBCLifestyle.png",717 BBC Lifestyle
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS4fiUEpxRfciEW6ruvsig", "kid":"9CkpLcdE8oQ1UwhWFXesEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=9986/
