@@ -48,6 +48,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 
 # Premium TV
 
+- Al Jazeera English
 - Astro AOD
 - Astro Arena 2
 - Astro Arena Bola
@@ -58,16 +59,26 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - Astro SuperSport 2
 - Astro SuperSport 3
 - Astro SuperSport 4
+- AXN
+- BBC Lifestyle
 - beIN Sports
 - beIN Sports 2
 - beIN Sports 3
+- CCTV4
+- CGTN
+- CNA
+- CTi Asia
 - Eurosport
 - HITS
 - HITS Movies
 - HITS NOW
+- iQIYI
 - K-Plus
 - KBS World
+- Love Nature
 - ONE
+- Phoenix Chinese Channel
+- Phoenix InfoNews Channel
 - SPOTV
 - SPOTV 2
 - TVB Classic
