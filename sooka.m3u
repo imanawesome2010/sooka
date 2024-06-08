@@ -491,6 +491,11 @@ https://linear03-playback.sooka.my/CH2/masterCH2.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"WwDUNB6QswIrXlcTmuirFg", "kid":"SiZ7oJs6Q5aTZO53923WIg" }], "type":"temporary" }
+#EXTINF:-1 tvg-id="825.astro" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="825" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket2024.png",825 Astro Cricket PLus
+https://linear05-playback.sooka.my/CH2/masterCH2.mpd
+
 #EXTINF:-1 tvg-id="131.astro" group-title="FAST Channels" group-logo="https://aqfadtv.xyz/images/FAST_v1.png" ch-number="131" tvg-logo="https://aqfadtv.xyz/logos/FilemMantap.png",Filem Mantap
 https://linearfast02.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd
 
