@@ -60,14 +60,17 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - Astro SuperSport 3
 - Astro SuperSport 4
 - AXN
+- BBC Earth
 - BBC Lifestyle
 - beIN Sports
 - beIN Sports 2
 - beIN Sports 3
+- CBeebies
 - CCTV4
 - CGTN
 - CNA
 - CTi Asia
+- Dreamworks
 - Eurosport
 - HITS
 - HITS Movies
