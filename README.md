@@ -72,6 +72,7 @@ Use (https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml).
 - CTi Asia
 - Dreamworks
 - Eurosport
+- Global Trekker
 - HITS
 - HITS Movies
 - HITS NOW
